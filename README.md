@@ -79,9 +79,9 @@ Comprehensive portfolio analytics:
 - **Weather Verifier**: Contextual weather-based verification messaging
 
 ### 9. Multi-Language Support (Inclusive Design)
-- **Tamil (தமிழ்)**: Full UI translation for Tamil-speaking workers
-- **Hindi (हिंदी)**: Full UI translation for Hindi-speaking workers
-- **Accessibility**: ARIA labels, color contrast compliance, low-end device optimization
+- **Tamil (தமிழ்)**: Full UI translation for Tamil-speaking workers.
+- **Hindi (हिंदी)**: Full UI translation for Hindi-speaking workers.
+- **Accessibility**: ARIA labels, color contrast compliance, low-end device optimization.
 
 ---
 
